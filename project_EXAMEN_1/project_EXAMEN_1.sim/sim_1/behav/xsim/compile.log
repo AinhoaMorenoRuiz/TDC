@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ainho/project_EXAMEN_1/project_EXAMEN_1.srcs/sources_1/new/EJ1_N_BITS.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'EJ1_N_BITS'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ainho/project_EXAMEN_1/project_EXAMEN_1.srcs/sim_1/new/TB_N_BITS.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'EJ1_N_BITS_tb'
